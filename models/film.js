@@ -1,4 +1,4 @@
-const mongoose = require("mongoose"); //Create constant database, import mongoose
+const mongoose = require("mongoose");
 
 const FilmSchema = new mongoose.Schema({
     title: String,
@@ -8,6 +8,6 @@ const FilmSchema = new mongoose.Schema({
     release: String,
     country: String,
     completed: Boolean
-}); //Create constant database structure
+});
 
-module.exports = mongoose.model("movies", FilmSchema); //Export database model
+module.exports = mongoose.model("movies", FilmSchema);

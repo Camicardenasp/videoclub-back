@@ -1,7 +1,7 @@
 {
   "name": "store",
   "version": "1.0.0",
-  "description": "A to-do list app made with React as front-end and Node, Express and MongoDB as back-end.",
+  "description": "",
   "main": "index.js",
   "engines": {
     "node": "14.x"
@@ -26,13 +26,5 @@
   },
   "devDependencies": {
     "prettier": "^2.8.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Camicardenasp/videoclub-back.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Camicardenasp/videoclub-back/issues"
-  },
-  "homepage": "https://github.com/Camicardenasp/videoclub-back#readme"
+  }
 }
