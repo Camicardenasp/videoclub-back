@@ -1,5 +1,9 @@
 # DESCRIPTION MoviesList
 
+
+Authors: Camilo Cárdenas
+         Alisson Álvarez
+
 A simple and easy-to-use movies list application that helps you organize films and keep track of them.
 
 Features
