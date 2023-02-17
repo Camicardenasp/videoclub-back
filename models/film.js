@@ -5,7 +5,7 @@ const FilmSchema = new mongoose.Schema({
     year: Number,
     time: Number,
     language: String,
-    release: String,
+    release: Date,
     country: String,
     completed: Boolean
 });
