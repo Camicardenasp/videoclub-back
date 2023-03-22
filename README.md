@@ -1,5 +1,20 @@
 # DESCRIPTION MoviesList
 
+### Screenshots
+ 
+ Movies Table
+ 
+![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/VideoclubTable.png)
+
+Movies Form
+
+![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/VideoClubForm.png)
+
+Backend Movies DataBase
+
+To retrieve movies information from backend go to the next link: https://videoclub-back.vercel.app/films
+
+![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/BackendScreenShot.png)
 
 Authors: Camilo Cárdenas
          Alisson Álvarez
@@ -82,24 +97,4 @@ And `MongoDB`, `Express`, `Node` for **back-end development**
     
     5. User thunderclient a visual studio extension for verifying connection right from visual studio
   
-###### 4.  APP (FRONTEND)
-
-    1. npm create vite@latest 
-        Just like regular react project use this to create default react files with Vite.
-  
-### Screenshots
- 
- Movies Table
- 
-![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/VideoclubTable.png)
-
-Movies Form
-
-![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/VideoClubForm.png)
-
-Backend Movies DataBase
-
-To retrieve movies information from backend go to the next link: https://videoclub-back.vercel.app/films
-
-![image](https://github.com/Camicardenasp/videoclub-front/blob/main/public/Readme%20Images/BackendScreenShot.png)
 
